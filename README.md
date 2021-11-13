@@ -24,7 +24,7 @@ Create an RMarkdown file to answer the following questions.
 
 6. Which district has the highest dropout rate?
 
-7. Within the Mid Cumberland region, which region has the highest ACT composite?
+7. Within the Mid Cumberland region, which district has the highest ACT composite?
 
 8. Create a histogram showing the distribution of graduation rates. What can you say about this distribution?
 
